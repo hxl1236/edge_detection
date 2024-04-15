@@ -71,7 +71,7 @@ def correct_trajectory(vehicle_latitude, vehicle_longitude, landmarks, threshold
     return corrected_latitude, corrected_longitude
 
 # Define parameters
-directory = "../palau_files/palau_files/"
+directory = "palau_files/palau_files/"
 cmap = get_mpl_colormap(plt.cm.copper)
 min_dark_contour_area_threshold = 200
 max_dark_contour_area_threshold = 5000
