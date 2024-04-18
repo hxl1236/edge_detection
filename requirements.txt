@@ -6,3 +6,4 @@ matplotlib
 shapely
 opencv-python
 pyxtf
+geomap
